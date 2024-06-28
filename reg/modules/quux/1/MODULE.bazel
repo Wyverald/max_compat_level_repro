@@ -1,0 +1,2 @@
+module(name='quux',version='1')
+bazel_dep(name='bar',version='1')

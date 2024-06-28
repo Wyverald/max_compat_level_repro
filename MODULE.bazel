@@ -1,2 +1,3 @@
 bazel_dep(name='foo',version='1')
 bazel_dep(name='bar',version='2')
+bazel_dep(name='quux',version='1')
