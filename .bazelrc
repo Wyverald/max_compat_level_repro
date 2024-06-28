@@ -1,0 +1,1 @@
+common --registry=file://%workspace%/reg --registry=https://bcr.bazel.build/

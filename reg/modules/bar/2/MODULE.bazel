@@ -1,0 +1,1 @@
+module(name='bar',version='2',compatibility_level=2)

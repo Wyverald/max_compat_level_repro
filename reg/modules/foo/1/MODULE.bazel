@@ -1,0 +1,2 @@
+module(name="foo",version="1")
+bazel_dep(name='bar',version='1',max_compatibility_level=2)
